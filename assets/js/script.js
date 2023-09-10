@@ -1,6 +1,6 @@
 const apiKey = "4566563f9e36faf5d924a88795768092";
 const limit = "1";
-const getCordsUrl = "http://api.openweathermap.org/geo/1.0/direct?";
+const getCordsUrl = "https://api.openweathermap.org/geo/1.0/direct?";
 const getWeatherUrl = "https://api.openweathermap.org/data/2.5/forecast?";
 
 // Get coordinates for the city name that is entered
